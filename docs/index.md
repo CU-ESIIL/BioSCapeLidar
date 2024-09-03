@@ -1,6 +1,6 @@
-# [Your Name]
+# BioSCapeLidar
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to the BioSCapeLidar repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository include the processing of lidar data from the NASA BioSCape project.
 
 ## Your Project
 
@@ -11,7 +11,7 @@ Welcome to the [Your Name] repository, part of the Environmental Data Science In
 [Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
 ## Collaborators
-- ...
+- Cibele Hummel do Amaral, Laura Dee, Meghan Hayden, Kristen Lewers 
 
 ## Code Repository
 
